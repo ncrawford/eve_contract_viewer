@@ -10,10 +10,3 @@
         <link href="css/tablesorter/style.css" type="text/css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
-        <!--
-        <form action="index.php" method="GET">
-            Key Id: <input type="text" name="keyId" value="<?=$keyId?>"/><br/>
-            vCode:&nbsp; <input type="text" name="vCode" value="<?=$vCode?>"/><br/>
-            <input type="submit" value="Submit"/>
-        </form>
-        -->
