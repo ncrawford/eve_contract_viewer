@@ -1,0 +1,7 @@
+<?php
+define('contract_viewer_keyId', '');
+define('contract_viewer_vCode', '');
+define('contract_viewer_db_host', 'localhost');
+define('contract_viewer_db_username', '');
+define('contract_viewer_db_password', '');
+define('contract_viewer_db_db', '');
