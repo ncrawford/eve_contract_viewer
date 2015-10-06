@@ -27,7 +27,6 @@ echo '
 
      	// get solar system ID of the station
 
-
      	echo '
      <tr onClick="CCPEVE.showContract(\'', $station->getSolarSystemID($contract->startStationID), '\', \'', $contract->contractID, '\')">';
 
